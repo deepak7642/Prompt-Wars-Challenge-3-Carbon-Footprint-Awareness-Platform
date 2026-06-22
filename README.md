@@ -10,7 +10,7 @@ Design a solution that helps individuals understand, track, and reduce their car
 
 ----
 
-# 🌍 Carbon Footprint Recommendation System – Overview
+#### 🌍 Carbon Footprint Recommendation System – Overview
 
 The **Carbon Footprint Recommendation System** is an AI-powered sustainability assistant designed to help individuals understand, track, and reduce their carbon footprint through personalized insights and actionable recommendations.
 
@@ -28,7 +28,7 @@ The solution is designed to be **simple, explainable, and user-friendly**, makin
 
 ---
 
-## 🎯 Problem It Solves
+#### 🎯 Problem It Solves
 
 Many individuals:
 
@@ -44,9 +44,9 @@ Many individuals:
 
 ---
 
-# 🚀 Key Features of the Solution
+### 🚀 Key Features of the Solution
 
-## 1️⃣ 📊 Carbon Impact Prediction Engine
+#### 1️⃣ 📊 Carbon Impact Prediction Engine
 
 Uses Machine Learning to classify users into:
 
@@ -67,7 +67,7 @@ to estimate an individual's carbon impact level.
 
 ---
 
-## 2️⃣ 🎯 Sustainability Persona Segmentation
+#### 2️⃣ 🎯 Sustainability Persona Segmentation
 
 Uses K-Means Clustering to group users into behavioral personas such as:
 
@@ -80,7 +80,7 @@ These personas help generate highly personalized recommendations instead of one-
 
 ---
 
-## 3️⃣ 🤖 AI-Powered Recommendation Engine
+#### 3️⃣ 🤖 AI-Powered Recommendation Engine
 
 Generates customized sustainability recommendations based on:
 
@@ -97,7 +97,7 @@ Examples:
 
 ---
 
-## 4️⃣ 💬 Generative AI Explanation Layer
+#### 4️⃣ 💬 Generative AI Explanation Layer
 
 Transforms model predictions into human-friendly insights.
 
@@ -109,7 +109,7 @@ Instead of displaying technical outputs, the AI explains:
 
 ---
 
-## 5️⃣ 📈 Personalized Carbon Insights
+#### 5️⃣ 📈 Personalized Carbon Insights
 
 Provides users with visibility into key contributors such as:
 
@@ -122,7 +122,7 @@ This helps users understand where improvements can have the biggest impact.
 
 ---
 
-## 6️⃣ 🌱 Action-Oriented Sustainability Guidance
+#### 6️⃣ 🌱 Action-Oriented Sustainability Guidance
 
 Recommendations focus on realistic and achievable actions:
 
@@ -136,7 +136,7 @@ The goal is to encourage small changes that collectively create meaningful envir
 
 ---
 
-## 7️⃣ 🔍 Explainable AI Outputs
+#### 7️⃣ 🔍 Explainable AI Outputs
 
 The system does not simply predict outcomes.
 
@@ -150,21 +150,21 @@ This improves user trust and engagement.
 
 ---
 
-## 8️⃣ ⚙️ Hybrid ML + AI Architecture
+#### 8️⃣ ⚙️ Hybrid ML + AI Architecture
 
 The solution combines:
 
-### Machine Learning Layer
+##### Machine Learning Layer
 
 * HistGradientBoosting Classifier
 * Carbon Impact Prediction
 
-### User Segmentation Layer
+##### User Segmentation Layer
 
 * K-Means Clustering
 * Sustainability Personas
 
-### Generative AI Layer
+##### Generative AI Layer
 
 * Personalized explanations
 * Recommendation generation
@@ -173,9 +173,9 @@ This architecture ensures both predictive accuracy and user-friendly communicati
 
 ---
 
-# 🧩 How It Works (Simplified Architecture)
+#### 🧩 How It Works (Simplified Architecture)
 
-### Step 1: User Data Collection
+##### Step 1: User Data Collection
 
 The system captures:
 
@@ -189,13 +189,13 @@ The system captures:
 
 ↓
 
-### Step 2: User Segmentation
+##### Step 2: User Segmentation
 
 K-Means clustering identifies behavioral sustainability personas.
 
 ↓
 
-### Step 3: Carbon Impact Prediction
+##### Step 3: Carbon Impact Prediction
 
 HistGradientBoosting predicts whether the user's impact is:
 
@@ -205,13 +205,13 @@ HistGradientBoosting predicts whether the user's impact is:
 
 ↓
 
-### Step 4: AI Recommendation Engine
+##### Step 4: AI Recommendation Engine
 
 Generates personalized sustainability recommendations.
 
 ↓
 
-### Step 5: User-Friendly Explanation
+##### Step 5: User-Friendly Explanation
 
 AI explains:
 
@@ -221,7 +221,7 @@ AI explains:
 
 ---
 
-# 🌍 Impact
+#### 🌍 Impact
 
 The objective of this project is to empower individuals to make informed sustainability decisions by transforming complex carbon footprint data into simple, personalized, and actionable recommendations.
 
@@ -229,7 +229,7 @@ Small behavioral changes, when adopted at scale, can contribute significantly to
 
 ---
 
-# 🚀 Future Enhancements
+#### 🚀 Future Enhancements
 
 * 📱 Mobile application integration
 * 📊 Carbon footprint trend tracking
